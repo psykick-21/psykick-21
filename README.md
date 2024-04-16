@@ -8,7 +8,7 @@
 <br>
 
 - 👨‍💻 All of my projects are available in the [Repositories](https://github.com/psykick-21?tab=repositories)
-- 📫 Reach me at **psykickai@gmail.com** for freelancing and mentoring.
+- 📫 Reach me at **psykickai@gmail.com**
 
 
 <h3 align="left">Languages, tools and skillset:</h3>
