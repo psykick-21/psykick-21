@@ -3,8 +3,8 @@
 
 ### Highlights
 #### Text Summarization API Using HuggingFace, FAST API and Deployment to AWS with CI/CD Pipeline
-Watch a demonstration video: [Video](https://www.youtube.com/watch?v=QG-pj9tV81M)
-Visit the repo: [Repo](https://github.com/psykick-21/text-summarization-end-to-end)
+📹 Watch a demonstration video: [here](https://www.youtube.com/watch?v=QG-pj9tV81M)<br>
+📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/psykick-21?tab=repositories](https://github.com/psykick-21?tab=repositories)
 
