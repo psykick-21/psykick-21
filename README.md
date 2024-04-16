@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">I am a passionate Data Scientist from India</h3>
+<h4>Data Scientist passionate about uncovering hidden patterns in data. Adept at building and deploying machine learning and deep learning models, and data pipelines for real-world applications. Proficient in Python for data manipulation and analysis. Eager to leverage data science to solve challenging problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psykick-21&label=Profile%20views&color=0e75b6&style=flat" alt="psykick-21" /> </p>
 
