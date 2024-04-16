@@ -2,7 +2,8 @@
 <h4>Data Scientist passionate about uncovering hidden patterns in data. Adept at building and deploying machine learning and deep learning models, and data pipelines for real-world applications. Proficient in Python for data manipulation and analysis. Eager to leverage data science to solve challenging problems.</h4>
 
 ### Highlights
-#### I. Text Summarization API Using HuggingFace, FAST API and Deployment to AWS with CI/CD Pipeline
+#### I. Text Summarization API 
+Built a Text-summarization API using HuggingFace transformer, FAST API and deployed to AWS with CI/CD Pipeline
 📹 Watch a demonstration video: [here](https://www.youtube.com/watch?v=QG-pj9tV81M)<br>
 📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
 <br>
