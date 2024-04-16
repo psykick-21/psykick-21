@@ -7,15 +7,13 @@
 📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
 <br>
 
-- 👨‍💻 All of my projects are available in the [Repositories](https://github.com/psykick-21?tab=repositories)
-- 📫 Reach me at **psykickai@gmail.com**
-
-
 <h3 align="left">Languages, tools and skillset:</h3>
 <b>Languages</b>: Python, SQL<br>
 <b>Concepts</b>: Data Analysis, Probability and Statistics, Machine Learning, Deep Learning, Unsupervised learning, Feature Engineering, MLOps<br>
 <b>Tools and softwares</b>: Tableau, Postman, Docker, Git<br>
 <b>Libraries, utilities and frameworks</b>: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, Pyspark, Snowflake, MongoDB, ChromaDB<br>
+<br>
 
-
+- 👨‍💻 All of my projects are available in the [Repositories](https://github.com/psykick-21?tab=repositories)
+- 📫 Reach me at **psykickai@gmail.com**
 
