@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages, tools and skillset:</h3>
 <p><b>Languages</b>: Python, SQL</p>
-<p><b>Concepts</b>: Data Analysis, Probability and Statistics, Machine Learning, Deep Learning, Feature Engineering, MLOps</p>
+<p><b>Concepts</b>: Data Analysis, Probability and Statistics, Machine Learning, Deep Learning, Unsupervised learning, Feature Engineering, MLOps</p>
 <p><b>Tools and softwares</b>: Tableau, Postman, Docker, Git</p>
 <p><b>Libraries, utilities and frameworks</b>: Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, Pyspark, Snowflake, MongoDB, ChromaDB</p>
 
