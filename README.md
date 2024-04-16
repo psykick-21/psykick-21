@@ -3,7 +3,7 @@
 
 ### Highlights
 #### I. Text Summarization API 
-Built a Text-summarization API using HuggingFace transformer, FAST API and deployed to AWS with CI/CD Pipeline
+Built a Text-summarization API using HuggingFace transformer (Google Pegasus), train it on Samsum data from HuggingFace, build a training and inference pipeline using FAST API and deployed to AWS with CI/CD Pipeline.<br>
 📹 Watch a demonstration video: [here](https://www.youtube.com/watch?v=QG-pj9tV81M)<br>
 📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
 <br>
