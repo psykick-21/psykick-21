@@ -7,7 +7,7 @@
 📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
 <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/psykick-21?tab=repositories](https://github.com/psykick-21?tab=repositories)
+- 👨‍💻 All of my projects are available in the [Repositories](https://github.com/psykick-21?tab=repositories)
 - 📫 How to reach me **psykickai@gmail.com**
 
 
