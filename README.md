@@ -21,4 +21,5 @@ Trained an image classification model (CNN) using Tensorflow from scratch and us
 
 - 👨‍💻 All of my projects are available in the [Repositories](https://github.com/psykick-21?tab=repositories)
 - 📫 Reach me at **psykickai@gmail.com**
+- 📙 Vist my Medium blog [here](https://medium.com/@gaurav219688)
 
