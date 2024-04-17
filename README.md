@@ -6,10 +6,11 @@
 Built a Text-summarization API using HuggingFace transformer (Google Pegasus), train it on Samsum data from HuggingFace, build a training and inference pipeline using FAST API and deployed to AWS with CI/CD Pipeline.<br>
 📹 Watch a demonstration video: [here](https://www.youtube.com/watch?v=QG-pj9tV81M)<br>
 📂 Visit the repo: [here](https://github.com/psykick-21/text-summarization-end-to-end)<br>
-<br>
+
 #### II. Ninjacart Image Classification
 Trained an image classification model (CNN) using Tensorflow from scratch and used pre-trained models and fine-tuned them for the required use case. Used Optuna to hyperparameter tune the models and select the best performing one to infer on the test dataset.<br>
 📂 Visit the repo: [here](https://github.com/psykick-21/ninjacart-image-classification/tree/main)<br>
+<br>
 
 <h3 align="left">Languages, tools and skillset:</h3>
 <b>Languages</b>: Python, SQL<br>
