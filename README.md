@@ -14,6 +14,10 @@ Trained an image classification model (CNN) using Tensorflow from scratch and us
 #### Customer Churn Prediction
 Developed a machine learning model to predict customer churn. Utilized various classification algorithms including Logistic Regression, KNN, SVM, Decision Tree, Random Forest, XGBoost, LightGBM, AdaBoost, CatBoost and Stacking Ensemble, achieving 91.6% accuracy and 0.90 precision in identifying at-risk customers.<br>
 📂 Visit the repo: [here](https://github.com/psykick-21/customer-churn-prediction)<br>
+
+#### Porter Regression
+Built a delivery time prediction model for Porter using regression techniques. Data preprocessing included handling missing values and outliers, along with feature engineering and standardization. Experimented with various models like Linear Regression, Decision Tree, XGBoost, AdaBoost, CatBoost, LightGBM, Random Forest and Neural Networks. LightGBM Regressor achieved the best performance with a minimum mean squared error of 0.653.<br>
+📂 Visit the repo: [here](https://github.com/psykick-21/porter-regression)<br>
 <br>
 
 ---
