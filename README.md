@@ -4,9 +4,9 @@
 ### 🔆 Highlights
 #### Multi-Utility LLM Application
 Developed a multi-utility application powered by LLMs and Langchain framework primarily
-- Question Answering: Built an interface for users to ask general questions and receive answers. Users can choose between various LLMs like gpt-3.5-turbo, llama3-8b-instruct , gemma-7b-it and Mistral-7B-Instruct-v0.2 using OpenAI API, Ollama, Groq API and  HuggingFace respectively, for answering with Langchain's tools for building the pipeline.
-- Website Search: Created an interface to search websites like Wikipedia, Langsmith, and Arxiv by posing questions. Specialized Langchain agents and tools handle information lookup and context generation for each website, leveraging LLM power for delivering responses.
-- RAG App: Created a RAG chat app by combining document parsers, text splitter and a vector store and prompt into a chain, where the user can upload documents and chat with them.
+- **Question Answering**: Built an interface for users to ask general questions and receive answers. Users can choose between various LLMs like gpt-3.5-turbo, llama3-8b-instruct , gemma-7b-it and Mistral-7B-Instruct-v0.2 using OpenAI API, Ollama, Groq API and  HuggingFace respectively, for answering with Langchain's tools for building the pipeline.
+- **Website Search**: Created an interface to search websites like Wikipedia, Langsmith, and Arxiv by posing questions. Specialized Langchain agents and tools handle information lookup and context generation for each website, leveraging LLM power for delivering responses.
+- **RAG App**: Created a RAG chat app by combining document parsers, text splitter and a vector store and prompt into a chain, where the user can upload documents and chat with them.
 📂 Head over to the [repo](https://github.com/psykick-21/text-summarization-end-to-end) to read about this project in detail<br>
 
 #### Text Summarization API 
